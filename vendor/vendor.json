@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "WyQV07euFOe0+sgc35Ajq0gUApU=",
+			"path": "github.com/aws/aws-lambda-go/events",
+			"revision": "3d0bef9a5d9450a5adad80ec3e8964d00c9d040b",
+			"revisionTime": "2018-08-13T17:30:26Z"
+		},
+		{
+			"checksumSHA1": "Atnv24CtEnB8ZLGDqFevLMfzLtQ=",
+			"path": "github.com/aws/aws-lambda-go/lambda",
+			"revision": "3d0bef9a5d9450a5adad80ec3e8964d00c9d040b",
+			"revisionTime": "2018-08-13T17:30:26Z"
+		},
+		{
+			"checksumSHA1": "d4ehJWLS4YsqFG825pgwdvKDB6A=",
+			"path": "github.com/aws/aws-lambda-go/lambda/messages",
+			"revision": "3d0bef9a5d9450a5adad80ec3e8964d00c9d040b",
+			"revisionTime": "2018-08-13T17:30:26Z"
+		},
+		{
+			"checksumSHA1": "f9MhOwQHveaPVWO6trwfqHa+W0M=",
+			"path": "github.com/aws/aws-lambda-go/lambdacontext",
+			"revision": "3d0bef9a5d9450a5adad80ec3e8964d00c9d040b",
+			"revisionTime": "2018-08-13T17:30:26Z"
+		}
+	],
+	"rootPath": "github.com/yulibaozi/lambda-go"
+}
